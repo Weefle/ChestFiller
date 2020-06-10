@@ -1,0 +1,6 @@
+name: Chestfiller
+version: ${project.version}
+main: fr.weefle.chestfiller.Chestfiller
+depend: [WorldEdit, WorldGuard]
+authors: [Weefle]
+description: A simple ChestFiller plugin
